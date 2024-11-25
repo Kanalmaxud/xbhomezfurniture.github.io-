@@ -1,0 +1,244 @@
+Uri: https://909850.mobirisesite.com/
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;700&display=swap&display=swap
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/golostext/v4/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plVRRQ5c.ttf
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\s\golostext\v4\q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plVRRQ5c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/golostext/v4/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plW2Qg5c.ttf
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\s\golostext\v4\q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plW2Qg5c.ttf
+Content Type: font/ttf
+
+Uri: https://r.mobirisesite.com/909850/assets/bootstrap/css/bootstrap-grid.min.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/bootstrap/css/bootstrap-reboot.min.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\bootstrap\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/bootstrap/css/bootstrap.min.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/bootstrap/js/bootstrap.bundle.min.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/css/mbr-additional.css?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\css\mbr-additional.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/dropdown/css/style.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\dropdown\css\style.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/dropdown/js/navbar-dropdown.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\dropdown\js\navbar-dropdown.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/formoid.min.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\formoid.min.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/images/background1-h_m3m0x3qo.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\background1-h_m3m0x3qo.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/background1-h_m3m1mu3h.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\background1-h_m3m1mu3h.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/background1-h_m3m30923.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\background1-h_m3m30923.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/background1-h_m3m31wab.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\background1-h_m3m31wab.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/background1.jpg?rnd=1731878034815
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\background1.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/g75ddafd0608445825599f5dcdccd-h_m3lzh1b6.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\g75ddafd0608445825599f5dcdccd-h_m3lzh1b6.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/g894c36bf0d1b5e1171b376761693-h_m3lzd9e2.png
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\g894c36bf0d1b5e1171b376761693-h_m3lzd9e2.png
+Content Type: image/png
+
+Uri: https://r.mobirisesite.com/909850/assets/images/g894c36bf0d1b5e1171b376761693-h_m3lzfz3u.png
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\g894c36bf0d1b5e1171b376761693-h_m3lzfz3u.png
+Content Type: image/png
+
+Uri: https://r.mobirisesite.com/909850/assets/images/ga23cd133c7260220efd1642a9266-h_m3m14rq0.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\ga23cd133c7260220efd1642a9266-h_m3m14rq0.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/ge25e992768a640789524f44ba2be-h_m3m13l0r.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\ge25e992768a640789524f44ba2be-h_m3m13l0r.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1445510861639-5651173bc-h_m3lze21h.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1445510861639-5651173bc-h_m3lze21h.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1449247709967-d4461a6a6-h_m3m0p0xo.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1449247709967-d4461a6a6-h_m3m0p0xo.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1461218779480-bb61b6be1-h_m3lzog2f.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1461218779480-bb61b6be1-h_m3lzog2f.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1461418559055-6f020c5a9-h_m3lzj1xr.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1461418559055-6f020c5a9-h_m3lzj1xr.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1468174482686-1047396f1-h_m3lzq1mw.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1468174482686-1047396f1-h_m3lzq1mw.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1489171078254-c3365d6e3-h_m3lzoyrv.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1489171078254-c3365d6e3-h_m3lzoyrv.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1493663284031-b7e3aefcae8e.jpeg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1493663284031-b7e3aefcae8e.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1503174971373-b1f69850bded.jpeg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1503174971373-b1f69850bded.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1517705008128-361805f42-h_m3lzkabp.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1517705008128-361805f42-h_m3lzkabp.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1556228453-efd6c1ff04f6.jpeg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1556228453-efd6c1ff04f6.jpeg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1590075633056-de7a19338-h_m3lzfcj8.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1590075633056-de7a19338-h_m3lzfcj8.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1679558879563-335ee6932-h_m3lzmaax.png
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1679558879563-335ee6932-h_m3lzmaax.png
+Content Type: image/png
+
+Uri: https://r.mobirisesite.com/909850/assets/images/photo-1704022202827-5a5f3cf67-h_m3lzejw7.jpg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\images\photo-1704022202827-5a5f3cf67-h_m3lzejw7.jpg
+Content Type: image/jpeg
+
+Uri: https://r.mobirisesite.com/909850/assets/mbr-switch-arrow/mbr-switch-arrow.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\mbr-switch-arrow\mbr-switch-arrow.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/parallax/jarallax.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\parallax\jarallax.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/parallax/jarallax.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\parallax\jarallax.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/recaptcha.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\recaptcha.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/scrollgallery/scroll-gallery.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\scrollgallery\scroll-gallery.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/smart-cart/minicart-customizer.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\smart-cart\minicart-customizer.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/smart-cart/minicart-theme.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\smart-cart\minicart-theme.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/smart-cart/minicart.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\smart-cart\minicart.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/smoothscroll/smooth-scroll.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\smoothscroll\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/socicon/css/styles.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\socicon\css\styles.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/socicon/fonts/socicon.eot
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\socicon\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://r.mobirisesite.com/909850/assets/socicon/fonts/socicon.eot?
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\socicon\fonts\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://r.mobirisesite.com/909850/assets/socicon/fonts/socicon.svg
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\socicon\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: https://r.mobirisesite.com/909850/assets/socicon/fonts/socicon.ttf
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\socicon\fonts\socicon.ttf
+Content Type: font/ttf
+
+Uri: https://r.mobirisesite.com/909850/assets/socicon/fonts/socicon.woff
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\socicon\fonts\socicon.woff
+Content Type: font/woff
+
+Uri: https://r.mobirisesite.com/909850/assets/socicon/fonts/socicon.woff2
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\socicon\fonts\socicon.woff2
+Content Type: font/woff2
+
+Uri: https://r.mobirisesite.com/909850/assets/theme/css/style.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\theme\css\style.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/theme/js/script.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\theme\js\script.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/vimeoplayer/player.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\vimeoplayer\player.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/web/assets/jquery/jquery.min.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\web\assets\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://r.mobirisesite.com/909850/assets/web/assets/mobirise-icons2/mobirise2.css?rnd=1731878031411
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\web\assets\mobirise-icons2\mobirise2.css
+Content Type: text/css
+
+Uri: https://r.mobirisesite.com/909850/assets/web/assets/mobirise-icons2/mobirise2.eot?f2bix4
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\web\assets\mobirise-icons2\mobirise2.eot
+Content Type: binary/octet-stream
+
+Uri: https://r.mobirisesite.com/909850/assets/web/assets/mobirise-icons2/mobirise2.svg?f2bix4
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\web\assets\mobirise-icons2\mobirise2.svg
+Content Type: image/svg+xml
+
+Uri: https://r.mobirisesite.com/909850/assets/web/assets/mobirise-icons2/mobirise2.ttf?f2bix4
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\web\assets\mobirise-icons2\mobirise2.ttf
+Content Type: binary/octet-stream
+
+Uri: https://r.mobirisesite.com/909850/assets/web/assets/mobirise-icons2/mobirise2.woff?f2bix4
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\web\assets\mobirise-icons2\mobirise2.woff
+Content Type: application/font-woff
+
+Uri: https://r.mobirisesite.com/909850/assets/ytplayer/index.js?rnd=1731878031412
+File Name: C:\Users\Kamal-Bella\OneDrive\Desktop\909850.mobirisesite.com\909850\assets\ytplayer\index.js
+Content Type: application/javascript
+
